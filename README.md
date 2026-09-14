@@ -46,6 +46,11 @@ The analysis uses publicly available regional housing and economic data from
 UK government and official statistical sources. Raw datasets are not included
 in this repository.
 
+## Project report
+
+The complete methodology, results and discussion are available in the
+[final project report](housing_affordability_report.pdf).
+
 ## Author
 
 Hidir Azlan Shah  
